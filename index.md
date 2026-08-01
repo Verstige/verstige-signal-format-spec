@@ -252,7 +252,7 @@ TP3 HIT 🔐 +250 PIPS SECURED
 
 ### 4.5 TP4 Hit (Trade Closed)
 ```
-TP4 HIT 🎯 +{N} PIPS TOTAL
+TP4 HIT 🔐 +{N} PIPS TOTAL
 Trade Closed ✅
 ```
 Engine closes the trade with maximum profit.
