@@ -347,7 +347,17 @@ If your external scanner sends the signal and captures the `message_id`, you can
 
 ---
 
-## 7. Summary — What an External Scanner Must Produce
+## 7. Telegram Destination
+
+Send all messages to the following channel:
+
+**Channel ID:** `-1004348590244`
+
+All signal messages and threaded TP/SL updates go to this channel only.
+
+---
+
+## 8. Summary — What an External Scanner Must Produce
 
 | Requirement | Detail |
 |-------------|--------|
@@ -361,7 +371,7 @@ If your external scanner sends the signal and captures the `message_id`, you can
 
 ---
 
-## 8. Contact
+## 9. Contact
 
 For integration support, reach out to the Verstige trading operations team.
 Provide a sample of your scanner's current output format and the Telegram channel ID.
